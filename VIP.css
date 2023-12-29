@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.VIP {
+    background: url("img/vip_page.jpg");
+    background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 45em;
+  
+  position: relative;
+}
+.watch-text{
+  color: rgb(255, 255, 255);
+  text-shadow: 6px 2px 2px rgb(22, 22, 17), 0 0 25px rgb(41, 153, 97), 0 0 5px rgb(41, 153, 138);
+  text-transform: uppercase;
+  font-size: 35px;
+  text-align: center;
+  margin-top: 0;
+ margin-bottom: 10px; 
+ background: rgb(153, 132, 41);
+
+
+}
+.watch1{
+  background: url("img/vip_page.jpg");
+
+}

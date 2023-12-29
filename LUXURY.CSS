@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.LUXURY{
+    background-image: url("https://img.freepik.com/free-vector/black-podium-product-display-background-with-golden-lines_1017-30271.jpg");
+    height: 45em;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: fixed;
+
+
+}
+.tow{
+    height: 200px;
+    width: 200px;
+}
